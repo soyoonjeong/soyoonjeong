@@ -39,7 +39,11 @@
 	<br>
 </div>
 <br><br><br>
-
+<div align=center>
+	<h4>🏆 Baekjoon solved rank 🏆</h4>
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soyun5064)](https://solved.ac/soyun5064)
+</div>
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyoonjeong&layout=compact">
 </div>
