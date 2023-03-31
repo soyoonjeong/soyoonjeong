@@ -13,17 +13,18 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   	<br>
   	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
    <br>
    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
-	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">
+
+	
 	
 </div>
 <br><br>
