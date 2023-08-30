@@ -63,7 +63,7 @@
 - <a href= "https://github.com/soyoonjeong/deeplearning_from_scratch">deeplearning_from_scratch</a> : Book [DeepLearning from scratch]1 & 2 Study
 - <a href= "https://github.com/soyoonjeong/ml-coursera-python-assignments">ml-coursera-python-assignments</a> : Coursera Lecture [Machine Learning] Assignments
 - <a href= "https://github.com/soyoonjeong/MachineLearning">MachineLearning</a> : Book [Python Machinelearning Guide] Study in SAI
-- <a href = "https://github.com/soyoonjeong/DeepLearning-study">Deeplearning-study</a> : Book <Deep learning to learn from the founder of Keras> Study in SAI
+- <a href = "https://github.com/soyoonjeong/DeepLearning-study">Deeplearning-study</a> : Book [Deep learning to learn from the founder of Keras] Study in SAI
 - <a href = "https://github.com/soyoonjeong/Kaggle-Dacon">Kaggle-Dacon</a>
 - <a href = "https://github.com/soyoonjeong/baekjoon">baekjoon</a> : Algorithm study 
 - <a href = "https://github.com/soyoonjeong/2021-2-Data-Analysis">2021-2-Data-Analysis</a>
