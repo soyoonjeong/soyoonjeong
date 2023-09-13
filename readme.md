@@ -48,7 +48,7 @@
     - 2022.12.22 : 세종대학교 2022년 제 1회 소프트웨어융합대학 학술제 최우수상(2등)
     외 수상내역 4회 
 - 2023.03~2023.06 : <a href = "https://github.com/soyoonjeong/ITCareerfit">ITCareerFit</a> (IT 분야별 트렌드 분석 및 개인화 맞춤 일자리 추천 서비스) / 데이터 크롤링 및 데이터 분석
-- 2023.09~ : Google 머신러닝 부트캠프 2023
+
 
   
 
@@ -71,5 +71,5 @@
 - <a href = "https://github.com/soyoonjeong/2021-1-DataStructure">2021-1-DataStructure</a>
 - <a href = "https://github.com/soyoonjeong/python_basic">python_basic</a>
 - <a href = "https://github.com/soyoonjeong/Java_basic ">Java_basic</a>
-- <a href = "https://github.com/soyoonjeong/OYR-instagramclone">Instagram</a>, <a href = "https://github.com/soyoonjeong/momentum_clone">momentum</a>, <a href = "https://github.com/soyoonjeong?tab=repositories">kakaotalk</a> : Clone Coding to study web programming 
+- <a href = "https://github.com/soyoonjeong/OYR-instagramclone">Instagram</a>, <a href = "https://github.com/soyoonjeong/momentum_clone">momentum</a>, <a href = "https://github.com/soyoonjeong/kakaotalk_clone">kakaotalk</a> : Clone Coding to study web programming 
 
